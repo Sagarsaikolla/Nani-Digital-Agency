@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.food-munch-logo {
+    width: 80px;
+    height: 70px;
+    border-radius: 40px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.banner-section-bg-container {
+    background-image: url("https://res.cloudinary.com/dke0tbmqb/image/upload/v1698647663/WhatsApp_Image_2023-10-27_at_15.06.40_bb04c5ff_o0oizz.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-heading {
+    color: white;
+    font-family: "Times New Roman";
+    font-size: 45px;
+    font-weight: 300;
+    font-weight: bold;
+    margin-top: 200px
+}
+
+.banner-caption {
+    color: white;
+    font-family: "bree serif";
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.btn {
+    text-decoration: underline;
+}
+
+.grow-section {
+    background-color: #ffe6ff;
+}
+
+.grow-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.grow-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    margin-bottom: 50px;
+}
+
+.grow-section-img {
+    width: 510px;
+    margin-top: 10px;
+}
+
+.Services-section {
+    background-color: #e6ffe6;
+}
+
+.Services-section-img {
+    width: 510px;
+    margin-top: 10px;
+}
+
+.Services-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.Services-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    margin-bottom: 50px;
+}
+
+.Services-section-card {
+    border-width: 0px;
+    margin-bottom: 10px;
+}
+
+.Services-section-icon {
+    color: #2769db;
+    font-size: 35px;
+    padding: 10px;
+}
+
+.business-growth-section {
+    background-color: #f9fbfe;
+}
+
+.business-growth-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.business-growth-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    margin-bottom: 50px;
+}
+
+.business-growth-section-img {
+    width: 510px;
+    margin-top: 10px;
+}
+
+.idea-section {
+    background-color: #ffe6e6;
+}
+
+.idea-section-img {
+    width: 510px;
+    margin-top: 10px;
+}
+
+.idea-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.idea-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    margin-bottom: 50px;
+}
+
+.thanking-customers-section {
+    background-color: #e6f5ff;
+}
+
+.thanking-customers-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.thanking-customers-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon {
+    font-size: 35px;
+    color: #183b56;
+}
+
+.footer-section {
+    background-color: #660066;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.custom-button {
+    color: white;
+    background-color: #ff0080;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.custom-outline-button {
+    color: #d0b200;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+}
